@@ -18,4 +18,4 @@ Meu nome é Lucas. Sou um desenvolvedor web do Rio de Janeiro.
 </div>
 
 ## Contact
-- [silva-fernandes-lucas](https://www.linkedin.com/in/silva-fernandes-lucas/) on Linkdin
+- [silva-fernandes-lucas](https://www.linkedin.com/in/silva-fernandes-lucas/) on LinkedIn
