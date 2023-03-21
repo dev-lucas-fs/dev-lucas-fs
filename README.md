@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="./name.gif" alt="Lucas Fernandes Silva" />
+</h1>
 
-<!--
-**dev-lucas-fs/dev-lucas-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! 👋
+Meu nome é Lucas. Sou um desenvolvedor web do Rio de Janeiro.
 
-Here are some ideas to get you started:
+- 📚 Estudante de Ciência da Computação na UFRJ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<div style="display: flex; gap: 5px;" >
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+## Contact
+- [silva-fernandes-lucas](https://www.linkedin.com/in/silva-fernandes-lucas/) on Linkdin
